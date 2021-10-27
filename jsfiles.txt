@@ -5,3 +5,4 @@
 5. Make minor changes into README.txt file on line 1 belonging to ‘js-assignments’ branch.
 6. Commit those changed files.
 7. Switch to master branch.
+new changes.
