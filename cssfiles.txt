@@ -15,3 +15,4 @@ master.
 13. Merge ‘css-assignments’ branch into master. Confirm all css assignments are shown in
 master.
 14. Finally delete the ‘css-assignments’ branch.
+new changes.
